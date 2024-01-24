@@ -1,2 +1,2 @@
 
-print("hello proj")
+print("hello project2")
